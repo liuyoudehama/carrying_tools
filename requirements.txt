@@ -1,1 +1,2 @@
 yt-dlp==2023.12.30
+async-google-trans-new=1.4.6
